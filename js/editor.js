@@ -1487,10 +1487,10 @@ __webpack_require__.r(__webpack_exports__);
 
 const hosts = [{
   name: 'US East',
-  cloudHost: 'wss://clouddata.turbowarp.org'
+  cloudHost: 'wss://cl4.tnix.dev/'
 }, {
   name: 'EU',
-  cloudHost: 'wss://clouddata-eu.turbowarp.org',
+  cloudHost: 'wss://cl4.tnix.dev/',
   provider: {
     name: '9gr',
     href: 'https://scratch.mit.edu/users/9gr/'
